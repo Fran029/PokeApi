@@ -8,6 +8,7 @@
   body {
     display: grid;
     justify-items: center;
+    background-color:rgb(231, 85, 90);
   }
 
   #cont-ext{
